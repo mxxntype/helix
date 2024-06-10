@@ -1,3 +1,8 @@
+> [!NOTE]
+> The purpose of this fork is to change the appearance of the code completion popup, adding colors and icons to it.
+
+---
+
 <div align="center">
 
 <h1>
